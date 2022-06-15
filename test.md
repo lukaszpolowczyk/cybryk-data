@@ -2,7 +2,7 @@
 title: Test
 description: 
 published: 0
-date: 2022-06-15T13:49:45.679Z
+date: 2022-06-15T17:25:57.370Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:47.514Z
@@ -41,3 +41,7 @@ dd
 [Cybernetyka3](/Cybernetyka)
 
 [Cybernetyka4](Cybernetyka)
+
+### test3
+
+ xx uu
