@@ -2,10 +2,10 @@
 title: Metacybernetyka
 description: 
 published: 1
-date: 2022-06-14T19:55:29.893Z
+date: 2022-06-15T13:00:24.652Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T17:27:52.426Z
+dateCreated: 2022-06-15T02:34:19.315Z
 ---
 
 **Metacybernetyka** – synteza [fizyki](https://pl.wikipedia.org/wiki/Fizyka) i [cybernetyki](/Cybernetyka), oparta na:
@@ -15,10 +15,9 @@ dateCreated: 2022-06-14T17:27:52.426Z
 
 Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (humanistycznych).
 
-  
-Dziedzina nauki, opracowana w celu wyjaśnienia problemów [Dezintegracji i specjalizacji nauki](/Cybernetyka#dezintegracja-i-specjalizacja-nauki).
-
 ## Zastosowanie
+
+Metacybernatyka, to dziedzina nauki, opracowana w celu wyjaśnienia problemów [Dezintegracji i specjalizacji nauki](/Cybernetyka#dezintegracja-i-specjalizacja-nauki).
 
 Aksjomatyczna teoria poznania, ogólna jakościowa teoria informacji i metacybernetyka operują językiem i metodami, które - mogą być narzędziem integracji nauki współczesnej. Chodzi przy tym nie tylko o to, że można przy ich użyciu opisywać, ale także w wielu wypadkach rozwiązywać zagadnienia z różnych dziedzin nauki. Warunkiem jest przy tym odpowiednio precyzyjne sformułowanie zagadnienia oraz jego dostatecznie ogólny charakter. Dla opisu i rozwiązywania specyficznych i szczegółowych problemów, którymi zajmują się wyspecjalizowane dziedziny nauki, konieczne jest stosowanie odpowiednich dla nich metod.  
   
