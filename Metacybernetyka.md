@@ -17,7 +17,7 @@ Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (hum
 
 ## Zastosowanie
 
-Metacybernatyka, to dziedzina nauki, opracowana w celu wyjaśnienia problemów [Dezintegracji i specjalizacji nauki](/Cybernetyka#dezintegracja-i-specjalizacja-nauki).
+Metacybernetyka, to dziedzina nauki, opracowana w celu wyjaśnienia problemów [Dezintegracji i specjalizacji nauki](/Cybernetyka#dezintegracja-i-specjalizacja-nauki).
 
 Aksjomatyczna teoria poznania, ogólna jakościowa teoria informacji i metacybernetyka operują językiem i metodami, które - mogą być narzędziem integracji nauki współczesnej. Chodzi przy tym nie tylko o to, że można przy ich użyciu opisywać, ale także w wielu wypadkach rozwiązywać zagadnienia z różnych dziedzin nauki. Warunkiem jest przy tym odpowiednio precyzyjne sformułowanie zagadnienia oraz jego dostatecznie ogólny charakter. Dla opisu i rozwiązywania specyficznych i szczegółowych problemów, którymi zajmują się wyspecjalizowane dziedziny nauki, konieczne jest stosowanie odpowiednich dla nich metod.  
   
