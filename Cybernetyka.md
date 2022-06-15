@@ -2,7 +2,7 @@
 title: Cybernetyka
 description: 
 published: 1
-date: 2022-06-15T14:21:21.209Z
+date: 2022-06-15T14:23:31.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:54.353Z
@@ -18,9 +18,9 @@ dateCreated: 2022-06-15T02:33:54.353Z
 
 ## Działy cybernetyki
 
-- [cybernetyka techniczna](/Cybernetyka_techniczna) (technocybernetyka),
-- [cybernetyka biologiczna](/Cybernetyka_biologiczna) (biocybernetyka),
-- [cybernetyka społeczna](/Cybernetyka_społeczna) (socjocybernetyka),
+- [**cybernetyka techniczna**](/Cybernetyka_techniczna) (technocybernetyka),
+- [**cybernetyka biologiczna**](/Cybernetyka_biologiczna) (biocybernetyka),
+- [**cybernetyka społeczna**](/Cybernetyka_społeczna) (socjocybernetyka),
 - **psychocybernetyka** - badająca procesy sterowania zachodzące w organizmie ludzkim i psychice człowieka (powstała na pograniczu biocybernetyki i socjocybernetyki),
 - **cybernetyka ogólna** - zajmuje się badaniem praw rządzących wszelkimi procesami sterowania.
 
