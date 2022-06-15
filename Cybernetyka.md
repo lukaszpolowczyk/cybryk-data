@@ -2,17 +2,17 @@
 title: Cybernetyka
 description: 
 published: 1
-date: 2022-06-14T19:39:09.744Z
+date: 2022-06-15T14:21:21.209Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T17:27:26.367Z
+dateCreated: 2022-06-15T02:33:54.353Z
 ---
 
 **Cybernetyka** – interdyscyplina konkretna zajmującą się badaniem [procesów sterowania](/Cybernetyka#proces-sterowania).
 
 ## Proces sterowania
 
-1. **decydowanie** - czyli wybór wariantu, który ma zostać zrealizowany w wyniku danego procesu,
+1. **decydowanie** - czyli wybór wariantu, który ma zostać zrealizowany w wyniku danego [procesu](/Proces),
 1. **realizacja** wybranego wariantu.
 
 
