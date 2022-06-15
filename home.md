@@ -2,7 +2,7 @@
 title: Wikipedia Metacybernetyki
 description: 
 published: 1
-date: 2022-06-15T13:55:39.938Z
+date: 2022-06-15T14:16:10.254Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:43.316Z
@@ -20,7 +20,7 @@ Składa się w dużej części z obszernych cytatów z tej książki, ale uporz�
 
 Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (humanistycznych).  
 
-## Pojęcia
+## Słownik
 
 [Symbol](Symbol)
 
