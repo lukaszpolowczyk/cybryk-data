@@ -2,10 +2,10 @@
 title: Wikipedia Metacybernetyki
 description: 
 published: 1
-date: 2022-06-14T19:54:37.652Z
+date: 2022-06-15T13:55:39.938Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-13T17:40:26.987Z
+dateCreated: 2022-06-15T02:34:43.316Z
 ---
 
 Ta Wikipedia, to ekstrakt z [książki *Metacybernetyka*](https://pl.wikipedia.org/wiki/Metacybernetyka).  
@@ -20,12 +20,14 @@ Składa się w dużej części z obszernych cytatów z tej książki, ale uporz�
 
 Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (humanistycznych).  
 
-## Pozostałe
+## Pojęcia
 
 [Symbol](Symbol)
 
 - [Obiekt](Obiekt)
 - Relacja
 - Zbiór
+
+## Autorzy
 
 Autorem książki Metacybernetyka, jest [Józef Kossecki](https://pl.wikipedia.org/wiki/J%C3%B3zef_Kossecki).
