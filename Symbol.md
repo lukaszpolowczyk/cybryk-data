@@ -2,10 +2,10 @@
 title: Symbol
 description: Obraz obiektu lub relacji
 published: 1
-date: 2022-06-14T19:51:10.919Z
+date: 2022-06-15T14:01:56.201Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-13T15:18:22.986Z
+dateCreated: 2022-06-15T02:34:29.879Z
 ---
 
 **Symbol** (oznaczenie) – [Obraz](/Obraz) [obiektu](/Obiekt) lub [relacji](/Relacja).
@@ -39,4 +39,4 @@ Powstały też wizualne odpowiedniki symboli audialnych - np. zapis nut i słów
 
 ## Badanie znaczenia symboli
 
-Badaniem znaczenia symboli zajmuje się **semiotyka**, zaś badaniem znaczenia [słów](https://pl.wikipedia.org/wiki/S%C5%82owo) - **semantyka**.
+[Badaniem](/Badanie) znaczenia symboli zajmuje się **semiotyka**, zaś badaniem znaczenia [słów](https://pl.wikipedia.org/wiki/S%C5%82owo) - **semantyka**.
