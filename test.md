@@ -2,11 +2,12 @@
 title: Test
 description: 
 published: 0
-date: 2022-06-14T19:57:47.126Z
+date: 2022-06-15T13:49:45.679Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-13T18:18:40.721Z
+dateCreated: 2022-06-15T02:34:47.514Z
 ---
+
 ## Test1
 
 ![Metacybernetyka Józef Kossecki1](/images/metacybernetyka-jozef-kossecki_115_480-1.jpg)
