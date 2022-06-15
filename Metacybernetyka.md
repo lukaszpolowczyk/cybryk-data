@@ -2,7 +2,7 @@
 title: Metacybernetyka
 description: 
 published: 1
-date: 2022-06-15T13:00:24.652Z
+date: 2022-06-15T17:53:23.938Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:19.315Z

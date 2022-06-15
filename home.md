@@ -2,7 +2,7 @@
 title: Wikipedia Metacybernetyki
 description: 
 published: 1
-date: 2022-06-15T17:51:44.471Z
+date: 2022-06-15T17:53:21.664Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:43.316Z

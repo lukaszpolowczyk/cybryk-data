@@ -2,7 +2,7 @@
 title: Cybernetyka
 description: 
 published: 1
-date: 2022-06-15T14:23:31.269Z
+date: 2022-06-15T17:53:19.411Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:54.353Z

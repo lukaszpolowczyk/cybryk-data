@@ -2,7 +2,7 @@
 title: System autonomiczny
 description: 
 published: 1
-date: 2022-06-14T19:50:39.003Z
+date: 2022-06-15T17:53:33.515Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-14T17:28:03.289Z

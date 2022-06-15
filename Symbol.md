@@ -2,7 +2,7 @@
 title: Symbol
 description: Obraz obiektu lub relacji
 published: 1
-date: 2022-06-15T14:01:56.201Z
+date: 2022-06-15T17:53:32.450Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:29.879Z

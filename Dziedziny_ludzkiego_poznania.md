@@ -2,7 +2,7 @@
 title: Dziedziny ludzkiego poznania
 description: 
 published: 1
-date: 2022-06-14T19:52:27.160Z
+date: 2022-06-15T17:53:20.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-14T17:27:44.536Z

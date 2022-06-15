@@ -2,7 +2,7 @@
 title: System
 description: 
 published: 1
-date: 2022-06-14T19:50:40.595Z
+date: 2022-06-15T17:53:34.678Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-14T17:27:59.234Z

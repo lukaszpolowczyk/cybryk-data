@@ -2,7 +2,7 @@
 title: Jakościowa teoria informacji
 description: 
 published: 1
-date: 2022-06-14T19:51:58.332Z
+date: 2022-06-15T17:53:22.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-14T17:27:48.534Z
