@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-17T00:43:59.633Z
+date: 2022-06-17T00:44:49.450Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -135,4 +135,4 @@ Wprowadźmy najpierw **porządek semantyczny**, a następnie **porządek aksjoma
 
 [^4]: J. Kossecki, Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty w różnych systemach sterowania społecznego, „THE PECULIARITY OF MAN”, vol. 7, Warszawa - Kielce 2002, s. 373.
 
-[^5]: Por. tamże, s. 375.
+[^5]:  J. Kossecki, Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty w różnych systemach sterowania społecznego, „THE PECULIARITY OF MAN”, vol. 7, Warszawa - Kielce 2002, s. 375.
