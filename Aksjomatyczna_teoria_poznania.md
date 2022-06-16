@@ -2,16 +2,16 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T02:40:22.000Z
+date: 2022-06-16T02:43:20.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
 ---
 
-**Aksjomatyczna teoria poznania** (eksploracjonizm) – Przyjęcie pojęć pierwotnych i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządeku w [naukowych procesach poznawczych](/Dziedziny_ludzkiego_poznania).
+**Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) pojęć pierwotnych i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządeku w [naukowych procesach poznawczych](/Dziedziny_ludzkiego_poznania).
 
 ## Pojęcie pierwotne
-Pojęcie którego nie definiujemy, których znaczenie przyjmujemy za oczywiste.
+[Pojęcie](/Pojęcie) którego nie definiujemy, których znaczenie przyjmujemy za oczywiste.
 
 *Mając na uwadze dążenie do jednoznaczności naukowego przekazu informacji postuluje się aby tych pojęć pierwotnych było jak najmniej.*
 
@@ -31,7 +31,7 @@ Przyjęcie oznaczeń pojęć pierwotnych.
 
 ## Interdyscyplinarny metajęzyk
 
-Przyjęte pojęcia pierwotne i oznaczenia pojęć pierwotnych, utworzone w celu wprowadzenia interdyscyplinarnego porządeku w naukowych procesach poznawczych.
+Przyjęty system pojęć pierwotnych i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządku w naukowych procesach poznawczych.
 
 ## Opis
 
