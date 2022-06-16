@@ -2,7 +2,7 @@
 title: Cybernetyka
 description: 
 published: 1
-date: 2022-06-15T17:53:19.411Z
+date: 2022-06-16T02:04:31.030Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:54.353Z
@@ -45,6 +45,11 @@ Podobnie jak nauka - również dwie inne wielkie dziedziny ludzkiego poznania - 
 Opisywaniu i rozwiązywaniu problemów interdyscyplinarnych poświęcone było seminarium, zorganizowane przez zmarłego w 2003 roku wybitnego polskiego antropologa Andrzeja Wiercińskiego, które odbywało się co dwa tygodnie, począwszy od jesieni 1994 roku, na Wydziale Zarządzania i Administracji Akademii Świętokrzyskiej (dawnej Wyższej Szkoły Pedagogicznej) w Kielcach, jak również coroczne Konferencje organizowane przez Zakład Antropologii Ogólnej i Politycznej tejże Akademii.
 
 Wiele fragmentów [książki Metacybernetyka](https://pl.wikipedia.org/wiki/Metacybernetyka) było prezentowanych i dyskutowanych w trakcie powyższych seminariów i konferencji, a następnie publikowanych w okresie 1995-2003 r., w wydawanych przez Akademię Świętokrzyską (dawniej Wyższą Szkołę Pedagogiczną w Kielcach) periodykach i książkach wyszczególnionych w bibliografii. Niektóre prace przedstawiałem też w latach 2003 i 2004 na międzynarodowych konferencjach naukowych w Sewastopolu, organizowanych przez tamtejszą filię Humanistycznego Uniwersytetu Związku Profesorów w Sankt Petersburgu.
+
+W nauce współczesnej panuje daleko posunięta specjalizacja.
+Poszczególne dyscypliny naukowe wytworzyły własny specyficzny język, który najczęściej jest niezrozumiały dla przedstawicieli innych dyscyplin. Pogłębia to procesy dezintegracji współczesnej nauki, prowadząc do sytuacji, w której bardzo często przedstawiciele jednych jej dziedzin ignorują osiągnięcia innych dyscyplin.
+
+Nauka współczesna nie stanowi całości lecz raczej jest podzielona na wyspecjalizowane wąskie dyscypliny, których przedstawiciele zajmują się badaniem określonych fragmentów rzeczywistości mało interesując się innymi jej fragmentami. Ta specjalizacja coraz bardziej się pogłębia prowadząc do sytuacji, w której można będzie powiedzieć, że wyspecjalizowany w wąskiej dyscyplinie naukowiec wiedzieć będzie niemal wszystko o czymś i równocześnie nie będzie wiedział prawie nic o czymkolwiek innym.
 
 [^1]: [M. Mazur](https://pl.wikipedia.org/wiki/Marian_Mazur_(naukowiec)): [Cybernetyka i charakter](http://www.autonom.edu.pl/publikacje/mazur_marian/cybernetyka_i_charakter/index.php), Warszawa 1976, [s. 5](http://www.autonom.edu.pl/publikacje/mazur_marian/cybernetyka_i_charakter/cybernetyka.php)
 
