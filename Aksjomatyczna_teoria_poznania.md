@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:23:37.498Z
+date: 2022-06-16T03:29:49.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -43,11 +43,26 @@ Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leż�
 
 ## Relacje pierwotne
 
+### przynależność do zbioru
+### brak przynależności do zbioru
+### tożsamość
+### brak tożsamości
+
+## Relacja ogólna
+Relacje powtarzalne, tzn. takie które występują nie jeden, lecz wiele razy.
+
+##
+
 ## Proces poznawczy (eksploracyjny)
 
 ## Aksjomat (pewnik)
 
+Relacje ogólne, które przyjmujemy jako oczywiste.”2
+
 Zbiór przyjętych przez nas relacji pierwotnych między obiektami elementarnymi i ich zbiorami a relacjami, które między nimi występują i ich zbiorami.
+
+## Pewniki
+osiem
 
 ## Porządek aksjomatyczny
 
