@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:35:18.689Z
+date: 2022-06-16T03:38:09.041Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -56,6 +56,8 @@ Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leż�
 Relacje powtarzalne, tzn. takie które występują nie jeden, lecz wiele razy.
 
 ## Proces poznawczy (eksploracyjny)
+
+[Twierdzenia](/Twierdzenie) i [procesy dowodowe](/Proces_dowodowy).
 
 ## Aksjomat (pewnik)
 
