@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:11:02.999Z
+date: 2022-06-16T03:13:47.710Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -41,7 +41,13 @@ Można też stosować inne alternatywne oznaczenia zbioru obiektów: *o~i~* (gdz
 
 Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leżą u podstaw wszelkich społecznych procesów poznawczych (eksploracyjnych).
 
-## Aksjomat
+## Relacje pierwotne
+
+## Proces poznawczy (eksploracyjny)
+
+## Aksjomat (pewnik)
+
+Zbiór przyjętych przez nas relacji pierwotnych między obiektami elementarnymi i ich zbiorami a relacjami, które między nimi występują i ich zbiorami.
 
 ## Porządek aksjomatyczny
 
