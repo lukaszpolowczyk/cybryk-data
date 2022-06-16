@@ -2,7 +2,7 @@
 title: Wikipedia Metacybernetyki
 description: 
 published: 1
-date: 2022-06-15T17:53:21.664Z
+date: 2022-06-16T18:25:54.974Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:43.316Z
@@ -24,9 +24,9 @@ Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (hum
 
 [Symbol](/Symbol)
 
-- [Obiekt](/Obiekt)
-- Relacja
-- Zbiór
+- [Obiekt](/Aksjomatyczna_teoria_poznania#Obiekt)
+- [Relacja](/Aksjomatyczna_teoria_poznania#Relacja)
+- [Zbiór](/Aksjomatyczna_teoria_poznania#Zbiór)
 - [System](/System)
 
 ## Autorzy

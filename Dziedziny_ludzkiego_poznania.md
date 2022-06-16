@@ -2,7 +2,7 @@
 title: Dziedziny ludzkiego poznania
 description: 
 published: 1
-date: 2022-06-16T02:50:21.698Z
+date: 2022-06-16T17:23:42.172Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:11.210Z
@@ -25,6 +25,7 @@ Najmłodsza historycznie dziedzina ludzkiego poznania, zawiera twierdzenia i pro
 *M. Mazur podkreślał, że w nauce występują tylko twierdzenia i procedury dowodowe, tam zaś gdzie zaczynają się autorytety kończy się nauka i zaczyna filozofia.*
 
 ## Tabela
+
 |     |     |     |
 | --- | --- | --- |
 | **Dziedzina** | **Twierdzenia** | **Procedury dowodowe** |
