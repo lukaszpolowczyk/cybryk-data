@@ -2,18 +2,13 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:29:49.395Z
+date: 2022-06-16T03:35:18.689Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
 ---
 
 **Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) [pojęć pierwotnych](/Aksjomatyczna_teoria_poznania#pojęcie-pierwotne) i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządeku w [naukowych procesach poznawczych](/Dziedziny_ludzkiego_poznania#nauka).
-
-## Pojęcie pierwotne
-[Pojęcie](/Pojęcie) którego nie definiujemy, których znaczenie przyjmujemy za oczywiste.
-
-*Mając na uwadze dążenie do jednoznaczności naukowego przekazu informacji postuluje się aby tych pojęć pierwotnych było jak najmniej.*
 
 ## Pojęcia pierwotne
 
@@ -37,9 +32,6 @@ Oznaczamy nawiasem, w którym wpisujemy obiekty lub relacje należące do tego z
 
 Można też stosować inne alternatywne oznaczenia zbioru obiektów: *o~i~* (gdzie indeks i przybierać może dowolną z wartości *1,2,...,n*) zaś zbioru relacji między nimi: *r~ks~* (gdzie zarówno indeks *k* jak i indeks *s* przybierać mogą dowolną z wartości *1,2,...,n*). Zbiory, w odróżnieniu od ich elementów, oznaczać będziemy dużymi literami: zbiór obiektów elementarnych oznaczymy *O*, zaś zbiór relacji między nimi *R*.
 
-## Relacja pierwotna
-
-Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leżą u podstaw wszelkich społecznych procesów poznawczych (eksploracyjnych).
 
 ## Relacje pierwotne
 
@@ -48,21 +40,28 @@ Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leż�
 ### tożsamość
 ### brak tożsamości
 
+## Pewniki
+osiem
+
+## Pojęcie pierwotne
+[Pojęcie](/Pojęcie) którego nie definiujemy, których znaczenie przyjmujemy za oczywiste.
+
+*Mając na uwadze dążenie do jednoznaczności naukowego przekazu informacji postuluje się aby tych pojęć pierwotnych było jak najmniej.*
+
+## Relacja pierwotna
+
+Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leżą u podstaw wszelkich społecznych procesów poznawczych (eksploracyjnych).
+
 ## Relacja ogólna
 Relacje powtarzalne, tzn. takie które występują nie jeden, lecz wiele razy.
-
-##
 
 ## Proces poznawczy (eksploracyjny)
 
 ## Aksjomat (pewnik)
 
-Relacje ogólne, które przyjmujemy jako oczywiste.”2
+Relacja ogólna, którą przyjmujemy jako oczywistą.”2
 
 Zbiór przyjętych przez nas relacji pierwotnych między obiektami elementarnymi i ich zbiorami a relacjami, które między nimi występują i ich zbiorami.
-
-## Pewniki
-osiem
 
 ## Porządek aksjomatyczny
 
@@ -91,7 +90,7 @@ Przyjęty system pojęć pierwotnych i oznaczeń pojęć pierwotnych, utworzonyc
 
 ## Opis
 
-świat, który badają naukowcy stanowi pewną całość, zaś to co się dzieje w jakiejś dziedzinie może mieć i bardzo często ma wpływ na inne dziedziny. Powstaje w związku z tym konieczność uporządkowanego interdyscyplinarnego podejścia do naukowego badania rzeczywistości.
+Świat, który badają naukowcy stanowi pewną całość, zaś to co się dzieje w jakiejś dziedzinie może mieć i bardzo często ma wpływ na inne dziedziny. Powstaje w związku z tym konieczność uporządkowanego interdyscyplinarnego podejścia do naukowego badania rzeczywistości.
 
 Podstawowym warunkiem takiego podejścia jest wytworzenie
 interdyscyplinarnego metajęzyka, który umożliwi przekazywanie
