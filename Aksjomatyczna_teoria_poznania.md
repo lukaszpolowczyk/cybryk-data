@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:08:03.011Z
+date: 2022-06-16T03:11:02.999Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -25,6 +25,8 @@ Obiektów elementarnych nie dzielimy na mniejsze części.
 
 Przy rozwiązywaniu konkretnego problemu określamy co będziemy traktować jako obiekty elementarne, jakie zbiory tych obiektów i jakie relacje między nimi będziemy badać.
 
+Np. w fizyce cząstek elementarnych jako obiekty elementarne traktujemy właśnie te cząstki, badając ich zbiory i fizykalne relacje między nimi; w demografii jako obiekty elementarne traktujemy ludzi, badając ich zbiory oraz ilościowe relacje między nimi.
+
 ### [**Relacja**](/Relacja)
 
 Oznaczamy *r~ks~* (gdzie *k* oraz *s* oznaczają identyfikatory obiektów elementarnych między którymi relacja występuje).
@@ -34,6 +36,10 @@ Oznaczamy *r~ks~* (gdzie *k* oraz *s* oznaczają identyfikatory obiektów elemen
 Oznaczamy nawiasem, w którym wpisujemy obiekty lub relacje należące do tego zbioru: zbiór obiektów elementarnych oznaczamy (*o~1~,o~2~,...,o~n~*), zaś zbiór relacji między nimi (*r~11~,r~12~,...,r~1m~,r~21~,r~22~,...,r~2m~,...,3~nm~*)
 
 Można też stosować inne alternatywne oznaczenia zbioru obiektów: *o~i~* (gdzie indeks i przybierać może dowolną z wartości *1,2,...,n*) zaś zbioru relacji między nimi: *r~ks~* (gdzie zarówno indeks *k* jak i indeks *s* przybierać mogą dowolną z wartości *1,2,...,n*). Zbiory, w odróżnieniu od ich elementów, oznaczać będziemy dużymi literami: zbiór obiektów elementarnych oznaczymy *O*, zaś zbiór relacji między nimi *R*.
+
+## Relacja pierwotna
+
+Wśród wszelkich rodzajów relacji wyróżniamy relacje pierwotne, które leżą u podstaw wszelkich społecznych procesów poznawczych (eksploracyjnych).
 
 ## Aksjomat
 
