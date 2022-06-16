@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:04:44.811Z
+date: 2022-06-16T03:08:03.011Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -19,17 +19,23 @@ dateCreated: 2022-06-15T02:33:49.794Z
 
 ### [**Obiekt**](/Obiekt) (Obiekt elementarny)
 
-Oznaczamy symbolem *o~i~* (gdzie indeks *i* oznacza identyfikator obiektu - np. jego numer lub oznaczenie literowe),
+Oznaczamy symbolem *o~i~* (gdzie indeks *i* oznacza identyfikator obiektu - np. jego numer lub oznaczenie literowe).
+
+Obiektów elementarnych nie dzielimy na mniejsze części.
+
+Przy rozwiązywaniu konkretnego problemu określamy co będziemy traktować jako obiekty elementarne, jakie zbiory tych obiektów i jakie relacje między nimi będziemy badać.
 
 ### [**Relacja**](/Relacja)
 
-Oznaczamy *r~ks~* (gdzie *k* oraz *s* oznaczają identyfikatory obiektów elementarnych między którymi relacja występuje),
+Oznaczamy *r~ks~* (gdzie *k* oraz *s* oznaczają identyfikatory obiektów elementarnych między którymi relacja występuje).
 
 ### [**Zbiór**](/Zbiór)
 
 Oznaczamy nawiasem, w którym wpisujemy obiekty lub relacje należące do tego zbioru: zbiór obiektów elementarnych oznaczamy (*o~1~,o~2~,...,o~n~*), zaś zbiór relacji między nimi (*r~11~,r~12~,...,r~1m~,r~21~,r~22~,...,r~2m~,...,3~nm~*)
 
 Można też stosować inne alternatywne oznaczenia zbioru obiektów: *o~i~* (gdzie indeks i przybierać może dowolną z wartości *1,2,...,n*) zaś zbioru relacji między nimi: *r~ks~* (gdzie zarówno indeks *k* jak i indeks *s* przybierać mogą dowolną z wartości *1,2,...,n*). Zbiory, w odróżnieniu od ich elementów, oznaczać będziemy dużymi literami: zbiór obiektów elementarnych oznaczymy *O*, zaś zbiór relacji między nimi *R*.
+
+## Aksjomat
 
 ## Porządek aksjomatyczny
 
