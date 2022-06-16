@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-17T00:41:32.780Z
+date: 2022-06-17T00:42:44.162Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -133,6 +133,6 @@ Wprowadźmy najpierw **porządek semantyczny**, a następnie **porządek aksjoma
 
 [^3]: Tamże, s. 373.
 
-[^4]: Tamże,.
+[^4]: Tamże, s. 373.
 
 [^5]: Por. tamże, s. 375.
