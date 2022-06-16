@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T23:42:08.207Z
+date: 2022-06-17T00:40:06.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -30,27 +30,31 @@ Oznaczamy $r_{ks}$ (gdzie $k$ oraz $s$ oznaczają identyfikatory obiektów eleme
 
 Oznaczamy nawiasem, w którym wpisujemy obiekty lub relacje należące do tego zbioru: zbiór obiektów elementarnych oznaczamy $(o_{1},o_{2},...,o_{n})$, zaś zbiór relacji między nimi $(r_{11},r_{12},...,r_{1m},r_{21},r_{22},...,r_{2m},...,3_{nm})$
 
-Można też stosować inne alternatywne oznaczenia zbioru obiektów: $o_{i}$(gdzie indeks $i$ przybierać może dowolną z wartości $1,2,...,n)$ zaś zbioru relacji między nimi: $r_{ks}$ (gdzie zarówno indeks $k$ jak i indeks $s$ przybierać mogą dowolną z wartości $1,2,...,n)$. Zbiory, w odróżnieniu od ich elementów, oznaczać będziemy dużymi literami: zbiór obiektów elementarnych oznaczymy $O$, zaś zbiór relacji między nimi $R$.
+Można też stosować inne alternatywne oznaczenia zbioru obiektów:
+$o_{i}$(gdzie indeks $i$ przybierać może dowolną z wartości $1,2,...,n)$ zaś zbioru relacji między nimi: $r_{ks}$ (gdzie zarówno indeks $k$ jak i indeks $s$ przybierać mogą dowolną z wartości $1,2,...,n)$.
+
+Zbiory, w odróżnieniu od ich elementów, oznaczać będziemy dużymi literami:
+zbiór obiektów elementarnych oznaczymy $O$, zaś zbiór relacji między nimi $R$.
 
 ## Relacje pierwotne
 
 ### przynależność do zbioru
 
-którą oznaczamy symbolem $∈$
+oznaczamy symbolem $∈$
 
 ### brak przynależności do zbioru
 
-którą oznaczamy symbolem $∉$
+oznaczamy symbolem $∉$
 
 ### tożsamość
 
-którą oznaczamy symbolem $≡$
+oznaczamy symbolem $≡$
 
 ### brak tożsamości
 
-który oznaczamy symbolem $≢$
+oznaczamy symbolem $≢$
 
-## Pewniki
+## Aksjomaty
 
 1. dowolny obiekt elementarny $o_{a}$ jest tożsamy z samym sobą, co zapisać możemy symbolicznie $o_{a}≡o_{a}$;
 2. dowolny obiekt elementarny $o_{a}$ nie jest tożsamy z żadną dowolną relacją $r_{ab}$, co zapisać możemy symbolicznie $o_{a}≢r_{ab}$;
@@ -62,8 +66,7 @@ który oznaczamy symbolem $≢$
 8. dowolna relacja $r_{ab}$ nie należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $r_{ab}∉O$[^3].
 
 Istotę podanych wyżej aksjomatów możemy streścić następującym zdaniem:
-„obiekty elementarne należą do zbioru obiektów elementarnych i nie należą do zbiorów relacji, zaś relacje należą do zbioru relacji i nie należą do zbioru obiektów elementarnych[^4].
-Pewniki (aksjomaty) te to nic innego, jak zbiór przyjętych przez nas relacji pierwotnych między obiektami elementarnymi i ich zbiorami a relacjami, które między nimi występują i ich zbiorami.
+„obiekty elementarne należą do zbioru obiektów elementarnych i nie należą do zbiorów relacji, zaś relacje należą do zbioru relacji i nie należą do zbioru obiektów elementarnych”[^3].
 
 ## Pojęcie pierwotne
 
@@ -129,7 +132,5 @@ Wprowadźmy najpierw **porządek semantyczny**, a następnie **porządek aksjoma
 [^2]: J. Kossecki, Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty w różnych systemach sterowania społecznego, „THE PECULIARITY OF MAN”, vol. 7, Warszawa - Kielce 2002, s. 372-373.
 
 [^3]: Tamże, s. 373.
-
-[^4]: Tamże, s. 373.
 
 [^5]: Por. tamże, s. 375.
