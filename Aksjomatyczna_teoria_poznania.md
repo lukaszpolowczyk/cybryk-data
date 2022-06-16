@@ -2,12 +2,13 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T19:31:10.669Z
+date: 2022-06-16T23:42:08.207Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
 ---
-**Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) [pojęć pierwotnych](/Aksjomatyczna_teoria_poznania#pojęcie-pierwotne) i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządku w [naukowych procesach poznawczych](/Aksjomatyczna_teoria_poznania#naukowy-proces-poznawczy-eksploracyjny).
+
+**Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) [pojęć pierwotnych](/Aksjomatyczna_teoria_poznania#pojęcie-pierwotne) i [oznaczeń](/Symbol) pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządku w [naukowych procesach poznawczych](/Aksjomatyczna_teoria_poznania#naukowy-proces-poznawczy-eksploracyjny).
 
 ## Pojęcia pierwotne
 
@@ -52,13 +53,13 @@ który oznaczamy symbolem $≢$
 ## Pewniki
 
 1. dowolny obiekt elementarny $o_{a}$ jest tożsamy z samym sobą, co zapisać możemy symbolicznie $o_{a}≡o_{a}$;
-1. dowolny obiekt elementarny $o_{a}$ nie jest tożsamy z żadną dowolną relacją $r_{ab}$, co zapisać możemy symbolicznie $o_{a}≢r_{ab}$;
-1. dowolna relacja $r_{ab}$ jest tożsama z samą sobą, co zapisać możemy symbolicznie $r_{ab}≡r_{ab}$;
-1. dowolna relacja $r_{ab}$ nie jest tożsama z żadnym dowolnym obiektem elementarnym $o_{a}$, co zapisać możemy symbolicznie $r_{ab}≢o_{a}$.
-1. dowolny obiekt elementarny $o_{a}$ (gdzie indeks $a$ może przybierać dowolną z wartości $1,2,...,n)$ należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $o_{a}∈O$;
-1. dowolny obiekt elementarny $o_{a}$ nie należy do zbioru relacji $R$, co zapisać możemy symbolicznie $o_{a}∉R$;
-1. dowolna relacja $r_{ab}$ (gdzie zarówno indeks $a$ jak i indeks $b$ przybierać mogą dowolną z wartości $1,2,...,n)$ należy do zbioru relacji $R$, co zapisać możemy symbolicznie $r_{ab}∈R$;
-1. dowolna relacja $r_{ab}$ nie należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $r_{ab}∉O$[^3].
+2. dowolny obiekt elementarny $o_{a}$ nie jest tożsamy z żadną dowolną relacją $r_{ab}$, co zapisać możemy symbolicznie $o_{a}≢r_{ab}$;
+3. dowolna relacja $r_{ab}$ jest tożsama z samą sobą, co zapisać możemy symbolicznie $r_{ab}≡r_{ab}$;
+4. dowolna relacja $r_{ab}$ nie jest tożsama z żadnym dowolnym obiektem elementarnym $o_{a}$, co zapisać możemy symbolicznie $r_{ab}≢o_{a}$.
+5. dowolny obiekt elementarny $o_{a}$ (gdzie indeks $a$ może przybierać dowolną z wartości $1,2,...,n)$ należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $o_{a}∈O$;
+6. dowolny obiekt elementarny $o_{a}$ nie należy do zbioru relacji $R$, co zapisać możemy symbolicznie $o_{a}∉R$;
+7. dowolna relacja $r_{ab}$ (gdzie zarówno indeks $a$ jak i indeks $b$ przybierać mogą dowolną z wartości $1,2,...,n)$ należy do zbioru relacji $R$, co zapisać możemy symbolicznie $r_{ab}∈R$;
+8. dowolna relacja $r_{ab}$ nie należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $r_{ab}∉O$[^3].
 
 Istotę podanych wyżej aksjomatów możemy streścić następującym zdaniem:
 „obiekty elementarne należą do zbioru obiektów elementarnych i nie należą do zbiorów relacji, zaś relacje należą do zbioru relacji i nie należą do zbioru obiektów elementarnych[^4].
@@ -97,7 +98,6 @@ Określenie przynależności danego rodzaju pojęcia do określonych zbiorów lu
 Przynależność do zbioru.
 
 ## Naukowy proces poznawczy (eksploracyjny)
-
 
 ## Porządek aksjomatyczny[^1]
 

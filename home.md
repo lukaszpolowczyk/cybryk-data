@@ -2,13 +2,13 @@
 title: Wikipedia Metacybernetyki
 description: 
 published: 1
-date: 2022-06-16T18:25:54.974Z
+date: 2022-06-16T23:37:09.187Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:34:43.316Z
 ---
 
-Ta Wikipedia, to ekstrakt z [książki *Metacybernetyka*](https://pl.wikipedia.org/wiki/Metacybernetyka).  
+Ta Wikipedia, to ekstrakt z [książki *Metacybernetyka*](https://pl.wikipedia.org/wiki/Metacybernetyka).
 Składa się w dużej części z obszernych cytatów z tej książki, ale uporządkowanych w formie wikipedycznej.
 
 ## Metacybernetyka
@@ -18,7 +18,7 @@ Składa się w dużej części z obszernych cytatów z tej książki, ale uporz�
 - [aksjomatycznej teorii poznania](/Aksjomatyczna_teoria_poznania),
 - uogólnionej [jakościowej teorii informacji](/Jakościowa_teoria_informacji).
 
-Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (humanistycznych).  
+Metadziedzina w stosunku do nauk technicznych, biologicznych i społecznych (humanistycznych).
 
 ## Słownik
 

@@ -2,7 +2,7 @@
 title: Cybernetyka
 description: 
 published: 1
-date: 2022-06-16T02:04:31.030Z
+date: 2022-06-16T23:37:09.188Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:54.353Z
@@ -26,8 +26,8 @@ dateCreated: 2022-06-15T02:33:54.353Z
 
 ## Historia
 
-W latach czterdziestych XX wieku podjęto próbę integracji nauki na gruncie cybernetyki rozumianej jako nauka o procesach sterowania w organizmach żywych i maszynach.  
-Tak rozumiana cybernetyka - chociaż stanowiła wielki krok w kierunku integracji nauki - nie była w stanie wyjaśnić, a nawet opisać wielu bardzo istotnych zjawisk, w szczególności różnicy między organizmami żywymi a urządzeniami technicznymi, w których zachodzą procesy sterowania, jak również procesów reprodukcji gatunkowej organizmów żywych.  
+W latach czterdziestych XX wieku podjęto próbę integracji nauki na gruncie cybernetyki rozumianej jako nauka o procesach sterowania w organizmach żywych i maszynach.
+Tak rozumiana cybernetyka - chociaż stanowiła wielki krok w kierunku integracji nauki - nie była w stanie wyjaśnić, a nawet opisać wielu bardzo istotnych zjawisk, w szczególności różnicy między organizmami żywymi a urządzeniami technicznymi, w których zachodzą procesy sterowania, jak również procesów reprodukcji gatunkowej organizmów żywych.
 Nie zostały też wystarczająco precyzyjnie określone relacje między cybernetyką a fizyką i jej zastosowaniami technicznymi, w szczególności zaś nie był rozwiązany problem: czy cybernetyka zakłada jako aksjomaty prawa fizyki, czy też odwrotnie jest w stosunku do fizyki metadziedziną.
 
 ### Dezintegracja i specjalizacja nauki
