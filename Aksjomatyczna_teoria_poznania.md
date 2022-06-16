@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-17T00:44:49.450Z
+date: 2022-06-17T00:46:23.589Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -63,7 +63,7 @@ oznaczamy symbolem $≢$
 5. dowolny obiekt elementarny $o_{a}$ (gdzie indeks $a$ może przybierać dowolną z wartości $1,2,...,n)$ należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $o_{a}∈O$;
 6. dowolny obiekt elementarny $o_{a}$ nie należy do zbioru relacji $R$, co zapisać możemy symbolicznie $o_{a}∉R$;
 7. dowolna relacja $r_{ab}$ (gdzie zarówno indeks $a$ jak i indeks $b$ przybierać mogą dowolną z wartości $1,2,...,n)$ należy do zbioru relacji $R$, co zapisać możemy symbolicznie $r_{ab}∈R$;
-8. dowolna relacja $r_{ab}$ nie należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $r_{ab}∉O$[^3].
+8. dowolna relacja $r_{ab}$ nie należy do zbioru obiektów elementarnych $O$, co zapisać możemy symbolicznie $r_{ab}∉O$ [^3].
 
 Istotę podanych wyżej aksjomatów możemy streścić następującym zdaniem:
 „obiekty elementarne należą do zbioru obiektów elementarnych i nie należą do zbiorów relacji, zaś relacje należą do zbioru relacji i nie należą do zbioru obiektów elementarnych”[^4].
