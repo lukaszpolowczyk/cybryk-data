@@ -2,7 +2,7 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:13:47.710Z
+date: 2022-06-16T03:23:37.498Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
@@ -53,6 +53,19 @@ Zbiór przyjętych przez nas relacji pierwotnych między obiektami elementarnymi
 
 Przyjęcie pojęć pierwotnych.
 
+## Pojęcie niepierwotne (złożone)
+
+Pojęcie zdefiniowane.
+
+## Definiowanie
+
+Określenie przynależności danego rodzaju pojęcia do określonych zbiorów
+lub określanie zbiorów składających się na dane pojęcie5
+
+## Cecha
+
+Przynależność do zbioru.
+
 ## Porządek semantyczny
 
 Przyjęcie oznaczeń pojęć pierwotnych.
@@ -78,3 +91,8 @@ Wprowadźmy najpierw **porządek semantyczny**, a następnie **porządek aksjoma
 
 
 1 Wprowadzając nasz metajęzyk i oparty na nim porządek semantyczny i aksjomatyczny, zastosujemy podejście postulowane przez Jana Łukasiewicza - współtwórcę lwowsko-warszawskiej szkoły filozoficznej i twórcę warszawskiej szkoły logicznej. Zgodnie z tym podejściem postaramy się ograniczyć do niezbędnego minimum ilość wprowadzanych pojęć pierwotnych, których nie definiujemy, lecz przyjmujemy za zrozumiełe. Analogicznie postaramy się ograniczyć do niezbędnego minimum liczbę przyjmowanych aksjomatów - czyli twierdzeń uznawanych za oczywiste i nie wymagające dowodów. Każde pojęcie pierwotne stwarza możliwość niejednoznacznego rozumienia go przez różnych ludzi, zaś aksjomat może nie dla każdego być oczywisty - stąd postulat ograniczenia ich liczby do niezbędnego minimum jest w pełni uzasadniony. Warto też starać się ograniczyć do niezbędnego minimum, używanie słów zaczerpniętych z języka potocznego (literackiego).
+
+2 J. Kossecki, Socjocybernetyczne funkcjonowanie kategorii piękna i brzydoty w różnych systemach sterowania społecznego, „THE PECULARITY OF MAN”, vol. 7, Warszawa - Kielce 2002, s. 372-373.
+3 Tamże, s. 373.
+4 Tamże,.
+5 Por. tamże, s. 375.
