@@ -2,13 +2,13 @@
 title: Aksjomatyczna teoria poznania
 description: 
 published: 1
-date: 2022-06-16T03:38:09.041Z
+date: 2022-06-16T03:38:50.999Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-15T02:33:49.794Z
 ---
 
-**Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) [pojęć pierwotnych](/Aksjomatyczna_teoria_poznania#pojęcie-pierwotne) i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządeku w [naukowych procesach poznawczych](/Dziedziny_ludzkiego_poznania#nauka).
+**Aksjomatyczna teoria poznania** (eksploracjonizm) – [system](/System) [pojęć pierwotnych](/Aksjomatyczna_teoria_poznania#pojęcie-pierwotne) i oznaczeń pojęć pierwotnych, utworzonych w celu wprowadzenia interdyscyplinarnego porządeku w naukowych [procesach poznawczych](/Aksjomatyczna_teoria_poznania#proces-poznawczy-eksploracyjny).
 
 ## Pojęcia pierwotne
 
